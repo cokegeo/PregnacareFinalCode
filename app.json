@@ -1,0 +1,17 @@
+{
+  "name": "Coke",
+  "displayName": "Coke",
+  "expo": {
+    "name": "Coke",
+    "slug": "Coke",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
