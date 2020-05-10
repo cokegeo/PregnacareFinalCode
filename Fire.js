@@ -2,7 +2,8 @@ import firebase from "firebase";
 import "@firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyACfsL2vP9oAuiLD6DaWWQ1CTr-QMpvkMI",
+  //Removed API Key as it corresponds to my Firebase account
+  apiKey: "",
     authDomain: "pregnacareappreact.firebaseapp.com",
     databaseURL: "https://pregnacareappreact.firebaseio.com",
     projectId: "pregnacareappreact",
